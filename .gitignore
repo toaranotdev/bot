@@ -1,0 +1,8 @@
+# Bot tokens, etc..
+config.json
+
+# Unnecessary stuff
+node_modules
+
+# Nobihaza links, sorry :(
+commands/links.json
